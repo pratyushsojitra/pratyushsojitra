@@ -56,10 +56,6 @@
 <!-- Languages / Tools -->
 <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" />
 <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" />
-<img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" />
-<img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" />
-<img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" />
-<img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" />
 
 </p>
 
@@ -86,8 +82,8 @@
 ---
 
 ### 🤝 Connect With Me
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin  
+- 📧 Email: pratyushsojitra310@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/pratyush-sojitra-2581942b6
 - 🌐 Portfolio: https://pratyushsojitra.github.io
 
 ---
