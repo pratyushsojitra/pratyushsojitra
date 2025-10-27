@@ -82,9 +82,6 @@
 ---
 
 ### 🤝 Connect With Me
-- 📧 Email: pratyushsojitra310@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/pratyush-sojitra-2581942b6
-- 🌐 Portfolio: https://pratyushsojitra.github.io
 
 ---
 
